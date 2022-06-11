@@ -8,4 +8,4 @@ the website for the company, with timings for tutoring sessions and other contac
 
 ---
 
-Proudly hosted with github pages
+Proudly hosted with github pages. Pull requests are welcome
