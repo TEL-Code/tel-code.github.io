@@ -1,4 +1,27 @@
 html{
     background-color: #333;
-    color: rgb(169, 185, 172)
+    color: rgb(169, 185, 172);
+}
+body{
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{
+    font-family: 'Trebuchet MS', Arial;
+    text-align: center;
+}
+#motto{
+    margin-top: 500px;
+    font-size: 50px;
+    background-color: rgb(114, 124, 124);
+    padding: 100px;
+    margin-bottom: 0;
+    height: 200px;
+}
+p{
+    font-size: 30px;
 }
