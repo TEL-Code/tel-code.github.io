@@ -29,3 +29,7 @@
     li a:hover {
       background-color: #3b643b;
     }
+
+    #rfloat{
+      float: right;
+    }
