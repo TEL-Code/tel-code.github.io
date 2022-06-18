@@ -15,13 +15,21 @@ body{
     text-align: center;
 }
 #motto{
-    margin-top: 500px;
-    font-size: 50px;
+    margin-top: 30vw;
+    font-size: 6vw;
     background-color: rgb(114, 124, 124);
-    padding: 100px;
+    padding-top: 20vw;
+    padding-bottom: 10vw;
     margin-bottom: 0;
-    height: 200px;
+    height: 30vw;
+}
+#pros{
+    margin: 0;
+    font-size: 6vw;
+    background-color: rgb(82, 82, 82);
+    padding: 10px;  
+    height: 25vw;
 }
 p{
-    font-size: 30px;
+    font-size: 2.8vw;
 }
