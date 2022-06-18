@@ -28,8 +28,14 @@ body{
     font-size: 6vw;
     background-color: rgb(82, 82, 82);
     padding: 10px;  
-    height: 25vw;
+    height: 10vw;
 }
 p{
-    font-size: 2.8vw;
+    font-size: 2vw;
+}
+h2{
+    font-size: 3.5vw
+}
+img{
+    width: 30vw;
 }
