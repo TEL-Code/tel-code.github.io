@@ -16,20 +16,28 @@ body{
 }
 #motto{
     margin-top: 30vw;
-    font-size: 6vw;
     background-color: rgb(114, 124, 124);
-    padding-top: 20vw;
-    padding-bottom: 10vw;
     margin-bottom: 0;
-    height: 30vw;
+    height: 40vw;
 }
-#pros{
-    margin: 0;
+
+#motto > h1{
     font-size: 6vw;
-    background-color: rgb(82, 82, 82);
-    padding: 10px;  
+    padding-top: 11vw;
+}
+
+#pros{
+    padding-top: 1vw;
+    padding-bottom: 14vw;
+    margin: 0;
+    background-color: rgb(82, 82, 82); 
     height: 10vw;
 }
+
+#pros > h1{
+    font-size: 8vw;
+}
+
 p{
     font-size: 2vw;
 }
@@ -37,5 +45,6 @@ h2{
     font-size: 3.5vw
 }
 img{
-    width: 30vw;
+    width: 20vw;
+    margin-bottom: 2vw;
 }
