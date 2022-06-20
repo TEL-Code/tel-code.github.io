@@ -15,15 +15,15 @@ body{
     text-align: center;
 }
 #motto{
-    margin-top: 30vw;
+    margin-top: 400px;
     background-color: rgb(114, 124, 124);
     margin-bottom: 0;
-    height: 40vw;
+    height: 30vw;
 }
 
 #motto > h1{
-    font-size: 6vw;
-    padding-top: 11vw;
+    font-size: 8vw;
+    padding-top: 10vw;
 }
 
 #pros{

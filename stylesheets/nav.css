@@ -10,6 +10,7 @@
       border-radius: 10px;
       position: fixed;
       top: 8px;
+      opacity: 89%;
     }
 
     li {
@@ -30,6 +31,16 @@
       background-color: #3b643b;
     }
 
-    #rfloat{
+    #repo_link{
       float: right;
+    }
+    @media screen and (max-width:600px){
+      ul{
+        overflow: visible;
+        width: 209px;
+      }
+      #repo_link{
+        float: left;
+        padding-left: 60px;
+      }
     }
