@@ -7,6 +7,8 @@
 
 the website for the company, with timings for tutoring sessions and other contact info.
 
----
+## Conributing
+Just do a PR, as simple as that.
 
-Proudly hosted with github pages. Pull requests are welcome
+## License
+Under the [MIT](LICENSE.md) license
