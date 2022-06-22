@@ -39,6 +39,27 @@ body{
     font-size: 10vw;
 }
 
+#Projects{
+    margin-top: 200px;
+    background-color: #455;
+    margin-bottom: 0;
+    height: 10000px;
+}
+
+#Projects > h5{
+    padding-top: 240px;
+    font-size: 20px;
+}
+
+#Projects > h1{
+    padding-top: 800px;
+    font-size: 80px;
+}
+
+#Projects > h3{
+    font-size: 20px;
+}
+
 p{
     font-size: 20px;
 }
