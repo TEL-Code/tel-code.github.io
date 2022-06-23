@@ -14,59 +14,7 @@ body{
     font-family: 'Trebuchet MS', Arial;
     text-align: center;
 }
-#motto{
-    margin-top: 400px;
-    background-color: #555;
-    margin-bottom: 0;
-    height: 40vw;
-}
-
-#motto > h1{
-    font-size: 8.5vw;
-    padding-top: 10vw;
-}
-
-#pros{
-    padding-top: 1px;
-    padding-bottom: 20vw;
-    margin: 0;
-    background-color: #444; 
-    height: 30vw;
-}
-
-#pros > h1{
-    padding-top: 10vw;
-    font-size: 10vw;
-}
-
-#Projects{
-    margin-top: 200px;
-    background-color: #455;
-    margin-bottom: 0;
-    height: 10000px;
-}
-
-#Projects > h5{
-    padding-top: 240px;
-    font-size: 20px;
-}
-
-#Projects > h1{
-    padding-top: 800px;
-    font-size: 80px;
-}
-
-#Projects > h3{
-    font-size: 20px;
-}
 
 p{
     font-size: 20px;
-}
-h2{
-    font-size: 50px
-}
-img{
-    width: 20vw;
-    margin-bottom: 2vw;
 }

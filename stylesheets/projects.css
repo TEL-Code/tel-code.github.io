@@ -1,0 +1,64 @@
+#Projects{
+    margin-top: 400px;
+    background-color: rgb(40, 80, 63);
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 1800px;
+}
+
+#Projects h5{
+    padding-top: 300px;
+    font-size: 20px;
+}
+
+#Projects > h1{
+    padding-top: 500px;
+    font-size: 80px;
+}
+
+#Projects > h3{
+    font-size: 20px;
+}
+
+#python{
+    padding-top: 10px;
+    margin: 0;
+    background-color: rgb(39, 99, 114);
+    height: 800px;
+}
+
+#python h1{
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+#python h2{
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+#python p{
+    font-size: 20px;
+}
+
+#cpp{
+    padding-top: 10px;
+    margin: 0;
+    background-color: rgb(0, 118, 148);
+    height: 500px;
+}
+
+#cpp h1{
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+#cpp h2{
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+#cpp p{
+    font-size: 20px;
+}
+

@@ -1,0 +1,32 @@
+#motto{
+    margin-top: 400px;
+    background-color: #555;
+    margin-bottom: 0;
+    height: 40vw;
+}
+
+#motto h1{
+    font-size: 8.5vw;
+    padding-top: 10vw;
+}
+
+#pros{
+    padding-top: 1px;
+    padding-bottom: 20vw;
+    margin: 0;
+    background-color: #444; 
+    height: 30vw;
+}
+
+#pros h1{
+    padding-top: 10vw;
+    font-size: 10vw;
+}
+
+h2{
+    font-size: 50px
+}
+img{
+    width: 20vw;
+    margin-bottom: 2vw;
+}
