@@ -24,7 +24,7 @@
     padding-top: 10px;
     margin: 0;
     background-color: rgb(39, 99, 114);
-    height: 800px;
+    height: 900px;
 }
 
 #python h1{
@@ -45,7 +45,7 @@
     padding-top: 10px;
     margin: 0;
     background-color: rgb(0, 118, 148);
-    height: 500px;
+    height: 669px;
 }
 
 #cpp h1{
@@ -62,3 +62,49 @@
     font-size: 20px;
 }
 
+#csharp{
+    padding-top: 10px;
+    margin: 0;
+    background-color: rgb(81, 57, 121);
+    height: 800px;
+}
+
+#csharp h1{
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+#csharp h2{
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+#csharp p{
+    font-size: 20px;
+}
+
+#webdev{
+    padding-top: 10px;
+    margin: 0;
+    background-color: rgb(138, 62, 48);
+    height: 800px;
+}
+
+#webdev h1{
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+#webdev h2{
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+#webdev p{
+    font-size: 20px;
+}
+
+@media screen and (max-width:600px){
+    #webdev h1{
+        font-size: 20vw;
+    }
