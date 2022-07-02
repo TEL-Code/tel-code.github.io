@@ -37,7 +37,7 @@ li a:hover {
 @media screen and (max-width:600px){
   ul{
     overflow: visible;
-    width: 209px;
+    width: 222px;
   }
   #repo_link{
     float: left;
