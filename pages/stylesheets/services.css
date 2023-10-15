@@ -1,38 +1,30 @@
 #header{
-    margin-top: 400px;
     background-color: #555;
     margin-bottom: 0;
     padding-bottom: 0;
-    height: 40vw;
 }
 
-#header h1{
-    padding-top: 15vw;
-}
 
 #coach{
-    padding-top: 1px;
-    padding-bottom: 20vw;
     margin: 0;
     background-color: #666; 
-    height: 30vw;
 }
 
 #website{
-    padding-top: 1px;
-    padding-bottom: 20vw;
     margin: 0;
     background-color: #444; 
-    height: 30vw;
 }
 
 div h1{
     font-size: 5.1vw;
-    padding-top: 2vw;
 }
 
 img{
-    padding-top: 8vw;
     width: 18vw;
     margin-bottom: 0;
 }
+
+#header, #coach, #div, #website, #img, #main-header{
+    padding-bottom: 50vh;
+    padding-top: 50vh;
+  }

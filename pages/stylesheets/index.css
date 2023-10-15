@@ -1,7 +1,4 @@
 #motto{
-    margin-top: 400px;
-    background-color: #555;
-    margin-bottom: 0;
     height: 40vw;
 }
 
@@ -13,8 +10,6 @@
 #pros{
     padding-top: 1px;
     padding-bottom: 20vw;
-    margin: 0;
-    background-color: #444; 
     height: 30vw;
 }
 
@@ -30,3 +25,8 @@ img{
     width: 20vw;
     margin-bottom: 2vw;
 }
+
+#motto, #pros, #heading {
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+  }

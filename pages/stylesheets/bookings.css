@@ -1,4 +1,50 @@
-iframe{
-    width: 70%;
-    height: 800px;
+*{
+    font-family: 'Trebuchet MS', Arial;
+    text-align: center;
+	font-size: 18px;
+
+}
+
+li a{
+	font-size: 16px;
+}
+
+body{
+	box-sizing: border-box;
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+    background-color: #000000;
+}
+
+.container{
+	width: 500px;
+	padding: 30px;
+	background-color: #000000;
+	margin: auto;
+}
+h4{
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: rgb(169, 185, 172);
+}
+input{
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+textarea{
+	width: 100%;
+	padding: 10px;
+}
+#submit{
+	border: none;
+	background-color: #3b643b;
+	color: white;
+	width: 200px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#submit:hover{
+	background-color: #333;
 }
