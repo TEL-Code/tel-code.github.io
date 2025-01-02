@@ -1,0 +1,37 @@
+body {
+    background-color: #2C2E2C;
+    text-align: center;
+    color: #408047;
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal; 
+    margin: 20vh;
+}
+
+
+h1{
+    color: #A6A6A6;
+    font-size: 8vw;
+    margin: 0;
+}
+
+h3{
+    font-size: 2vw;
+    margin: 5%;
+}
+
+img {
+    width: 8vw;
+}
+
+@media only screen and (max-width: 600px) {
+    h1{
+        font-size: 15vw;
+    }
+    h3{
+        font-size: 4vw;
+    }
+    img {
+        width: 25vw;
+    }
+  }
